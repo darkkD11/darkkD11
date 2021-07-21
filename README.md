@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
  <h2 align="center">Welcome To My Repository</h2>
- <p align="center">Devesh Yadav </p>
+ <h3 align="center">Devesh Yadav </h3>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/darkkD11/count.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/darkkD11/count.svg" />
+</p>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/darkkd11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/darkkd11" height="30" width="40" /></a>
+</p>
