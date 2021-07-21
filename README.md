@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+ <h2 align="center">Welcome To My Repository</h2>
+ <p align="center">Devesh Yadav </p>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  ![Visitor Count](https://profile-counter.glitch.me/darkkD11/count.svg)
+</p>
