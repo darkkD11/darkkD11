@@ -20,7 +20,5 @@ Here are some ideas to get you started:
  <p align="center">Devesh Yadav </p>
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  ![Visitor Count](https://profile-counter.glitch.me/darkkD11/count.svg)
-</p>
+![Visitor Count](https://profile-counter.glitch.me/darkkD11/count.svg)
+
