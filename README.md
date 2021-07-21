@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**darkkD11/darkkD11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
  <h2 align="center">Welcome To My Repository</h2>
  <h3 align="center">Devesh Yadav </h3>
@@ -37,3 +23,14 @@ Hi, I'm Devesh Yadav, A Student and Lerner 🚀 from Boisar,Maharashtra, India, 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/darkkD11.gif)](https://github4life.herokuapp.com/darkkD11)
 
+
+#Here are some ideas to get you started:
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" />
+  
+- 🔭 I’m currently working on a Postman Collection for Hackathon.
+- 🌱 I’m currently learning Data-Structures and Algorithms.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: darkkd11@gmail.com
+- 😄 Pronouns: He/Him
+- 📝[Resume](https://media-exp1.licdn.com/media/AAYUAQR3AAgAAQAAAAAAACYyu2GqIZC8QjGnl9tYZ6xrXw.png)
