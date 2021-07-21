@@ -29,7 +29,7 @@ Hi, I'm Devesh Yadav, A Student and Lerner 🚀 from Boisar,Maharashtra, India, 
 
 ## About Me!:
 
-  <img align="right" alt="GIF" src="https://github.com/darkkD11/darkkD11/blob/main/resources/coder.gif" />
+  <img align="right" alt="GIF" src="https://github.com/darkkD11/darkkD11/blob/main/resources/coder.gif" width="400" />
   
 - 🔭 I’m currently working on a Postman Collection for Hackathon.
 - 🌱 I’m currently learning Data-Structures and Algorithms.
