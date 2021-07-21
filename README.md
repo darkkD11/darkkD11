@@ -25,5 +25,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/darkkd11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/darkkd11" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/darkkd11/" target="blank"><img align="center" src="https://github.com/darkkD11/darkkD11/resources/linkedin.svg" alt="linkedin.com/in/darkkd11" height="30" width="40" /></a>
 </p>
+
+**Just a Introduction:**
+
+Hi, I'm Devesh Yadav, A Student and Lerner 🚀 from Boisar,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and playing basketball.
+
+## My GitHub contributions as a Game of Life
+[![GitHub Game of Life](https://github4life.herokuapp.com/darkkD11.gif)](https://github4life.herokuapp.com/darkkD11)
+
