@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/darkkd11/" target="blank"><img align="center" src="https://github.com/darkkD11/darkkD11/resources/linkedin.svg" alt="linkedin.com/in/darkkd11" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/darkkd11/" target="blank"><img align="center" src="https://github.com/darkkD11/darkkD11/blob/main/resources/linkedin.svg" alt="linkedin.com/in/darkkd11" height="30" width="40" /></a>
 </p>
 
 **Just a Introduction:**
