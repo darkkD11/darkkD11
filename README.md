@@ -36,7 +36,7 @@ Hi, I'm Devesh Yadav, A Student and Lerner 🚀 from Boisar,Maharashtra, India, 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: darkkd11@gmail.com
 - 😄 Pronouns: He/Him
-- 📝[Resume](https://media-exp1.licdn.com/media/AAYUAQR3AAgAAQAAAAAAACYyu2GqIZC8QjGnl9tYZ6xrXw.png)
+- 📝[Resume](https://github.com/darkkD11/darkkD11/blob/main/resources/DEVESH_YADAV.pdf)
 - 🌏Check out My Portfolio [darkkD11.github.io](https://darkkd11.github.io/) in Progress.
 
 ### Languages and Tools: 
