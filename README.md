@@ -21,7 +21,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 **Just a Introduction:**
 
-Hi, I'm Devesh Yadav, A Student and Lerner 🚀 from Boisar,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and reading Manga.
+Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Boisar,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and reading Manga.
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/darkkD11.gif)](https://github4life.herokuapp.com/darkkD11)
@@ -49,6 +49,6 @@ Hi, I'm Devesh Yadav, A Student and Lerner 🚀 from Boisar,Maharashtra, India, 
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <br>
