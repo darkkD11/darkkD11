@@ -20,7 +20,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
    <a href="https://discord.com/users/470086098194792469" target="blank"><img align="center" src="https://github.com/darkkD11/darkkD11/blob/main/resources/discord-bubble.svg" alt="darkkD11#2025" height="50" width="50" /></a>
 </p>
 
-**Just a Introduction:**
+**Just a Introduction :**
 
 Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Boisar,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and reading Manga.
 
@@ -28,7 +28,7 @@ Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Boisar,Maharashtra, India,
 [![GitHub Game of Life](https://github4life.herokuapp.com/darkkD11.gif)](https://github4life.herokuapp.com/darkkD11)
 
 
-## About Me!:
+## About Me! :
 
   <img align="right" alt="GIF" src="https://github.com/darkkD11/darkkD11/blob/main/resources/coder.gif" width="400" />
   
@@ -40,7 +40,7 @@ Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Boisar,Maharashtra, India,
 - 📝 [Resume](https://github.com/darkkD11/darkkD11/blob/main/resources/DEVESH_YADAV.pdf)
 - 🌏Check out My Portfolio [darkkD11.github.io](https://darkkd11.github.io/) in Progress.
 
-### Languages and Tools: 
+### Languages and Tools : 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
