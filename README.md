@@ -35,10 +35,10 @@ Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Boisar,Maharashtra, India,
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Data-Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: darkkd11@gmail.com
+- 📫 How to reach me: deveshvyadav@gmail.com
 - 😄 Pronouns: He/Him
 - 📝 [Resume](https://github.com/darkkD11/darkkD11/blob/main/resources/DEVESH_YADAV.pdf)
-- 🌏Check out My Portfolio [darkkD11.github.io](https://darkkd11.github.io/) in Progress.
+- 🌏Check out My Portfolio [deveshyadav.netlify.app](https://deveshyadav.netlify.app/).
 
 ### Languages and Tools : 
 
