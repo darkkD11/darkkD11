@@ -30,7 +30,7 @@ Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Boisar,Maharashtra, India,
 
 ## About Me! :
 
-  <img align="right" alt="GIF" src="https://github.com/darkkD11/darkkD11/blob/main/resources/coder.gif" width="400" />
+  <img align="right" alt="GIF" src="https://github.com/darkkD11/darkkD11/blob/main/resources/coder2.gif" width="400" />
   
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Data-Structures and Algorithms.
