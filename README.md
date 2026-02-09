@@ -22,7 +22,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 **Just a Introduction :**
 
-Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Boisar,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and reading Manga.
+Hi, I'm Devesh Yadav, A Student and Learner 🚀 from Mumbai, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and reading Manga.
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/darkkD11.gif)](https://github4life.herokuapp.com/darkkD11)
